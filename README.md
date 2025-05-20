@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiraphopZz
 - 👷 I'm a Junior Piping Engineer.
-- 👀 I’m interested in Data Engineering, Mechanical Engineering, Piping Engineering, and Coding.
+- 👀 I’m interested in Data Engineering, Mechanical & Piping Engineering, and Coding.
 - 🌱 I’m currently learning Python and SQL
 
 <!---
